@@ -46,7 +46,7 @@
             grid-auto-rows: 280px;
             justify-content: space-around;
             row-gap: 35px;
-            .horizontal, .vertical{
+            .horizontal, .horizontal3, .horizontal4, .horizontal-down,  .vertical, .vertical2{
                 grid-row: unset;
                 grid-column: unset;
             }
